@@ -1,0 +1,4 @@
+pymongo==4.16
+voyageai==0.3.7
+openai==2.15.0
+
